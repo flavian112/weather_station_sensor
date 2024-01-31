@@ -1,0 +1,6 @@
+[submodule "weather_station_sensor_board"]
+	path = weather_station_sensor_board
+	url = git@github.com:flavian112/weather_station_sensor_board.git
+[submodule "weather_station_sensor_firmware"]
+	path = weather_station_sensor_firmware
+	url = git@github.com:flavian112/weather_station_sensor_firmware.git

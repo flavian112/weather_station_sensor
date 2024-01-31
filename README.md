@@ -31,3 +31,12 @@ time interval, by default every minute.
 ### 3D View
 
 ![3D View](./assets/weather_station_sensor_board_3dview.png)
+
+## Sensors
+
+### Precipitation Meter
+
+![Precipitation Meter](./assets/precipitation_meter.jpg)
+
+This Precipitation Meter has an internal reed switch, which closes for a short
+pulse whenever the bucket tips. 1mm of precipitation fills around 2.84 buckets.

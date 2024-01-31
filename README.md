@@ -6,6 +6,11 @@ mounted on a Adafruit feather board. The collected data then gets aggregated
 and sent out via a serial connection (RS485). This happens in a predefined
 time interval, by default every minute.
 
+## Repositories
+
+- [Firmware](https://github.com/flavian112/weather_station_sensor_firmware.git)
+- [Board](https://github.com/flavian112/weather_station_sensor_board.git)
+
 ## Resources
 
 - [Adafruit M0 Basic Proto Pinout](./datasheets/adafruit_feather_m0_basic_proto_pinout.pdf)

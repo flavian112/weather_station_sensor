@@ -1,5 +1,11 @@
 # Weather Station Sensor
 
+This weather station aims to collect environment data, like temperature,
+humidity and pressure via sensors connected over I2C to a microcontroller,
+mounted on a Adafruit feather board. The collected data then gets aggregated
+and sent out via a serial connection (RS485). This happens in a predefined
+time interval, by default every minute.
+
 ## Resources
 
 - [Adafruit M0 Basic Proto Pinout](./datasheets/adafruit_feather_m0_basic_proto_pinout.pdf)
